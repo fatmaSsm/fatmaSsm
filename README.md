@@ -21,7 +21,6 @@
 ---
 
 # <h3 align="center"> <Languages & Tools> </h3>
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
@@ -41,8 +40,6 @@
 </p>
 
 ---
-
-# <h3 align="center"> Connect With Me</h3>
 
 <p align="center">
   <!-- LinkedIn -->
