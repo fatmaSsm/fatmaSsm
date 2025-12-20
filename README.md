@@ -41,12 +41,13 @@
 
 ---
 
+# <h3 align="center"> <Connect With Me> </h3>
+
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/fatma-susam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-7289DA?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <!-- Discord -->
   <img src="https://img.shields.io/badge/Discord-Tess%20SSM-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   <!-- Profile Views -->
