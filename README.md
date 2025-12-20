@@ -56,6 +56,4 @@
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=fatmaSsm&style=for-the-badge&color=7289DA" alt="Profile Views"/>
 
-  Co-authored-by: FatmaSsm <fatmasusam6060@gmail.com>
-
 </p>
