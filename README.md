@@ -45,11 +45,14 @@
 <h3 align="center"> < Connect With Me > </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fatma-susam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-7289DA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/fatma-susam" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Fatma%20Susam-7289DA?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
+  <!-- Discord -->
   <img src="https://img.shields.io/badge/Discord-Tess%20SSM-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=fatmaSsm&style=for-the-badge&color=7289DA" alt="Profile Views"/>
 </p>
