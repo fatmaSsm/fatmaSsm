@@ -9,12 +9,12 @@
       <p>🎮 Learning <strong>game development</strong></p>
     </td>
     <!-- RIGHT -->
-    <td>
-      <img 
-        src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWxjdnpseG9zZzIwdnBibDk5ZXZwd2ZsbHhsODRoMWwzbHV1aTEzZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ENY5vJgJPEfG3Ym14H/giphy.gif" 
-        width="200"
-      />
-    </td>
+    <td align="center">
+    <img 
+      src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWxjdnpseG9zZzIwdnBibDk5ZXZwd2ZsbHhsODRoMWwzbHV1aTEzZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ENY5vJgJPEfG3Ym14H/giphy.gif"
+      width="90%" height="200"
+    />
+  </td>
   </tr>
 </table>
 
