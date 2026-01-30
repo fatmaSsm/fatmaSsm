@@ -51,7 +51,9 @@
   </a>
 
   <!-- Discord -->
-  <img src="https://img.shields.io/badge/Discord-Tess%20SSM-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://discord.com/users/810564667876835368">
+    <img src="https://img.shields.io/badge/Discord-Tess%20SSM-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=fatmaSsm&style=for-the-badge&color=7289DA" alt="Profile Views"/>
