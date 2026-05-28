@@ -1,6 +1,5 @@
----
 <h3 align="center"> < System.init() > </h3>
-  
+
 <table align="center">
   <tr>
     <!-- LEFT -->
@@ -23,7 +22,7 @@
 
 ---
 
-<h3 align="center"> < GitHub Stats > </h3>
+<h3 align="center"> < GitHub Stats > </h3> 
 
 <table align="center">
   <tr>
@@ -84,4 +83,7 @@
 
 </p>
 
- ---
+
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50" />
+</p>
