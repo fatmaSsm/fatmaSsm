@@ -9,7 +9,9 @@
       <p>🌱 Interested in <strong>backend development</strong>, <strong>data science</strong>, <strong>machine learning</strong></p>
       <p>💭 Ask me about <strong>responsive websites</strong> and <strong>design</strong></p>
       <p>🎮 Learning <strong>game development</strong> 
-        <img style="vertical-align: middle;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJrMzQzbm8yb3hzenl2YnpkbmZ0azljd3V5dncxcW9nZXhyNWc1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.gif" width="50" vertical-align: middle/>
+        <img style="vertical-align: middle;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZkaWxnbm85eXB0azh3dnF3cWd1c3hzejFtYWhxaTJqYnpmMmM1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pswcjOmDj4pIkUqikF/giphy.gif" width="10" vertical-align: middle/>
+        <img style="vertical-align: middle;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVyeXdxaDF4dzk3eXByY3BxcGpvczhheHJ2YTJoNTN2MDBtYTZxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ut9IfYd8U1C0CNQi76/giphy.gif" width="10" vertical-align: middle/>
+        <img style="vertical-align: middle;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZkaWxnbm85eXB0azh3dnF3cWd1c3hzejFtYWhxaTJqYnpmMmM1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pswcjOmDj4pIkUqikF/giphy.gif" width="10" vertical-align: middle/>
       </p>
     </td>
     <!-- RIGHT -->
