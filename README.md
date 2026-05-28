@@ -8,7 +8,9 @@
       <p>💻 Information Systems Engineering Student | <strong>Software Developer</strong></p>
       <p>🌱 Interested in <strong>backend development</strong>, <strong>data science</strong>, <strong>machine learning</strong></p>
       <p>💭 Ask me about <strong>responsive websites</strong> and <strong>design</strong></p>
-      <p>🎮 Learning <strong>game development</strong></p>
+      <p>🎮 Learning <strong>game development</strong> 
+        <img style="vertical-align: middle;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJrMzQzbm8yb3hzenl2YnpkbmZ0azljd3V5dncxcW9nZXhyNWc1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.gif" width="50" vertical-align: middle/>
+      </p>
     </td>
     <!-- RIGHT -->
     <td align="center">
