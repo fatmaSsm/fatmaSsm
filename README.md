@@ -43,6 +43,10 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatmaSsm&theme=tokyo-night" width="500"/>
+</p>
+
 ---
 
 <h3 align="center"> <code> < Languages & Tools > </code> </h3>
