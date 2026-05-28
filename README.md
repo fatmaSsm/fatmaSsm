@@ -1,3 +1,5 @@
+---
+
 <table align="center">
   <tr>
     <!-- LEFT -->
@@ -18,7 +20,28 @@
   </tr>
 </table>
 
-<hr>
+---
+
+<h3 align="center"> < GitHub Stats > </h3>
+
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=fatmaSsm&show_icons=true&theme=tokyonight&cache_seconds=86400"
+        height="170"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=fatmaSsm&theme=tokyonight"
+        height="170"
+      />
+    </td>
+  </tr>
+</table>
+
+---
 
 <h3 align="center"> < Languages & Tools > </h3>
 
@@ -40,7 +63,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
 </p>
 
-<hr>
+---
 
 <h3 align="center"> < Connect With Me > </h3>
 
@@ -59,4 +82,5 @@
   <img src="https://komarev.com/ghpvc/?username=fatmaSsm&style=for-the-badge&color=7289DA" alt="Profile Views"/>
 
 </p>
- 
+
+ ---
