@@ -1,5 +1,5 @@
 ---
-<h3 align="center"> < Hello World > </h3>
+<h3 align="center"> < System.init() > </h3>
   
 <table align="center">
   <tr>
