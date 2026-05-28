@@ -1,4 +1,4 @@
-<h3 align="center"> < System.init() > </h3>
+<h3 align="center"> <code> < System.init() > </code> </h3>
 
 <table align="center">
   <tr>
@@ -24,7 +24,7 @@
 
 ---
 
-<h3 align="center"> < GitHub Stats > </h3> 
+<h3 align="center"> <code> < GitHub Stats > </code> </h3> 
 
 <table align="center">
   <tr>
@@ -45,7 +45,7 @@
 
 ---
 
-<h3 align="center"> < Languages & Tools > </h3>
+<h3 align="center"> <code> < Languages & Tools > </code> </h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
@@ -68,7 +68,7 @@
 
 ---
 
-<h3 align="center"> < Connect With Me > </h3>
+<h3 align="center"> <code> < Connect With Me > </Code> </h3>
 
 <p align="center">
   <!-- LinkedIn -->
