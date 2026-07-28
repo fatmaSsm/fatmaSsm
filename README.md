@@ -32,13 +32,13 @@
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=fatmaSsm&show_icons=true&theme=tokyonight&cache_seconds=86400"
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=fatmaSsm&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400"
         height="170"
       />
     </td>
     <td>
       <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=fatmaSsm&theme=tokyonight"
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fatmaSsm&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400"
         height="170"
       />
     </td>
@@ -46,7 +46,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatmaSsm&theme=tokyo-night" width="500"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatmaSsm&theme=tokyo-night&cache_seconds=86400" width="500"/>
 </p>
 
 ---
