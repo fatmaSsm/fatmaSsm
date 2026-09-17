@@ -46,7 +46,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatmaSsm&theme=tokyo-night&cache_seconds=86400" width="500"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatmaSsm&theme=tokyo-night&cache_seconds=1800" width="500"/>
 </p>
 
 ---
