@@ -86,16 +86,16 @@
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/fatma-susam" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Fatma%20Susam-7289DA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Fatma%20Susam-242636?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <!-- Discord -->
   <a href="https://discord.com/users/810564667876835368">
-    <img src="https://img.shields.io/badge/Discord-Tess%20SSM-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-Tess%20SSM-242636?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=fatmaSsm&style=for-the-badge&color=7289DA" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=fatmaSsm&style=for-the-badge&color=242636" alt="Profile Views"/>
 
 </p>
 
