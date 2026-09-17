@@ -38,7 +38,7 @@
     </td>
     <td>
       <img 
-        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fatmaSsm&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400"
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fatmaSsm&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=1800"
         height="170"
       />
     </td>
@@ -46,7 +46,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatmaSsm&theme=tokyo-night&cache_seconds=1800" width="500"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatmaSsm&theme=tokyo-night&cache_seconds=86400" width="500"/>
 </p>
 
 ---
