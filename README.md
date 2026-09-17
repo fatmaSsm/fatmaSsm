@@ -27,6 +27,16 @@
 ---
 
 <h3 align="center"> <code> < GitHub Stats > </code> </h3> 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/streak/?username=fatmaSsm&theme=tokyonight&hide_border=true"
+        height="170"
+      />
+    </td>
+  </tr>
+</table>
 
 <table align="center">
   <tr>
@@ -44,13 +54,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/streak/?username=fatmaSsm&theme=tokyonight&hide_border=true"
-    width="55%"
-  />
-</p>
 
 ---
 
